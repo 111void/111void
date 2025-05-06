@@ -30,3 +30,8 @@
   </a>
 <a href="https://facebook.com/ky6taka" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+</a>
+<a href="https://tiktok.com/ky6taka" target="_blank">
+    <img src="https://img.shields.io/badge/tiktok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=071A2C" alt="Tiktok"/>
+    
+    
