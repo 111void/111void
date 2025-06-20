@@ -22,7 +22,7 @@
 
 ### &nbsp;Connect with me:
 
-  <a href="https://youtube.com/ky6taka." target="_blank">
+  <a href="https://youtube.com/ky6taka" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 <a href="https://facebook.com/ky6taka" target="_blank">
